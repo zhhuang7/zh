@@ -15,7 +15,7 @@ My current research mainly focuses on bridging Random Matrix Theory and high dim
 3. Assessing the strength of many instruments with the first-stage F and Cragg-Donald statistics, with Chen Wang and Jianfeng Yao, 2023
 4. A specification test for the strength of instrumental variables, with Chen Wang and Jianfeng Yao, 2023
 5. Unified and robust Lagrange multiplier type tests for cross-sectional independence in large panel data models, with Zhaoyuan Li and Jianfeng Yao, 2023
-6. Assessing Risk Spillovers with (Lasso) VAR for Expectile, with Hui-Ching Chuang, O-Chia Chuang and Zaichao DU, 2022
+6. Assessing Risk Spillovers with (Lasso) VAR for Expectile, with Hui-Ching Chuang, O-Chia Chuang and Zaichao Du, 2022
 
 ## Work In Progress
 1. Testing endogeneity in high dimension, with Chen Wang and Jianfeng Yao
