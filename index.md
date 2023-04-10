@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a third year Ph.D. student in Department of Statistics and Actuarial Science at The University of Hong Kong, advised by Prof. Jianfeng Yao and Dr. Chen Wang.
+I am a third year Ph.D. student in Department of Statistics and Actuarial Science at The University of Hong Kong, advised by [Prof. Jianfeng Yao](https://jianfengyao.wordpress.com/) and [Dr. Chen Wang](https://saasweb.hku.hk/staff/stacw/web/).
 
 ## Research Interests
 
