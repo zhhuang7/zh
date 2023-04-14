@@ -30,8 +30,10 @@ My current research mainly focuses on bridging Random Matrix Theory and economet
 4. YEAP2022, Shanghai, China
 
 ## Teaching Assistants
-2020-2024: STAT3606 Business Logistics,  STAT3609 The Statistics of Investment Risk, STAT3908 Credibility Theory and Loss Distributions, STAT4608 Market Risk Analysis, STAT4904 Statistical Learning for Risk Modelling
-2017-2020: Real Analysis, Probability theory, Statistics
+-2020-2024: 
+STAT3606 Business Logistics,  STAT3609 The Statistics of Investment Risk, STAT3908 Credibility Theory and Loss Distributions, STAT4608 Market Risk Analysis, STAT4904 Statistical Learning for Risk Modelling
+-2017-2020: 
+Real Analysis, Probability theory, Statistics
 
 ## Miscellaneous
 I enjoy taking photographs including portraits, landscapes and streets. Check out my annually updated collections in [ShotbyLance](https://lanceh7.wixsite.com/shotbylance)!
