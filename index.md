@@ -3,6 +3,7 @@ layout: homepage
 ---
 
 ## Still developing...
+More to come
 
 ## About Me
 
