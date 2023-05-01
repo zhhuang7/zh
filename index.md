@@ -25,10 +25,11 @@ My current research mainly focuses on bridging Random Matrix Theory and economet
 2. High dimensional mediation analysis in CRISPR data, with Dailin Gan
 
 ## Talks
-1. IAAE2023, Oslo, Norway
-2. SWETA2023, Siena, Italy
-3. EcoStat2022, Kyoto, Japan
-4. YEAP2022, Shanghai, China
+1. AMES2023, Singapore
+2. IAAE2023, Oslo, Norway
+3. SWETA2023, Siena, Italy
+4. EcoStat2022, Kyoto, Japan
+5. YEAP2022, Shanghai, China
 
 ## Teaching Assistants
 * **2020-2024**: 
