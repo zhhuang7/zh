@@ -12,12 +12,12 @@ I am a third year Ph.D. student in Statistics at The University of Hong Kong, wh
 My current research primarily focuses on high-dimensional econometrics and random matrix theory (RMT). I am currently working on instrumental variable models and large panel data models with tools from RMT. I am also interested in causal inference and its applications in bioinformatics.
 
 ## Working Papers
-1. Anderson-Rubin test with many instruments, with Chen Wang and Jianfeng Yao, 2023
-2. A note on assessing the strength of many weak instruments with multiple endogenous variables, with Chen Wang and Jianfeng Yao, 2023
-3. Assessing the strength of many instruments with the first-stage F and Cragg-Donald statistics, with Chen Wang and Jianfeng Yao, 2023
-4. A specification test for the strength of instrumental variables, with Chen Wang and Jianfeng Yao, 2022
-5. Unified and robust Lagrange multiplier type tests for cross-sectional independence in large panel data models, with Zhaoyuan Li and Jianfeng Yao, 2022
-6. Assessing Risk Spillovers with (Lasso) VAR for Expectile, with Hui-Ching Chuang, O-Chia Chuang and Zaichao Du, 2022
+1. Anderson-Rubin test with many instruments, with Chen Wang and Jianfeng Yao, 2023 - [[paper]](https://www.dropbox.com/s/r49e5s82095vhgj/Adjusted_F_multiple_p.pdf?dl=0)
+2. A note on assessing the strength of many weak instruments with multiple endogenous variables, with Chen Wang and Jianfeng Yao, 2023 - [[paper]](https://www.dropbox.com/s/r49e5s82095vhgj/Adjusted_F_multiple_p.pdf?dl=0)
+3. Assessing the strength of many instruments with the first-stage F and Cragg-Donald statistics, with Chen Wang and Jianfeng Yao, 2023 - [[paper]](https://arxiv.org/pdf/2302.14423.pdf)
+4. A specification test for the strength of instrumental variables, with Chen Wang and Jianfeng Yao, 2023 - [[paper]](https://arxiv.org/pdf/2302.14396.pdf)
+5. Unified and robust Lagrange multiplier type tests for cross-sectional independence in large panel data models, with Zhaoyuan Li and Jianfeng Yao, 2022 - [[paper]](https://arxiv.org/pdf/2302.14387.pdf)
+6. Assessing Risk Spillovers with (Lasso) VAR for Expectile, with Hui-Ching Chuang, O-Chia Chuang and Zaichao Du, 2022 - [[paper]]()
 
 ## Work In Progress
 1. Testing endogeneity in high dimension, with Chen Wang and Jianfeng Yao
