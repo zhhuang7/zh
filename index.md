@@ -34,15 +34,15 @@ My current research primarily focuses on high-dimensional econometrics and rando
 
 ## Teaching Assistants
 * **2020-2024**: 
-    -STAT3606 Business Logistics (2020 Fall)
-    -STAT3609 The Statistics of Investment Risk (2021 Fall)
-    -STAT3908 Credibility Theory and Loss Distributions (2022 Fall)
-    -STAT4608 Market Risk Analysis (2023 Spring)
-    -STAT4904 Statistical Learning for Risk Modelling (2021 Spring)
+    - STAT3606 Business Logistics (2020 Fall)
+    - STAT3609 The Statistics of Investment Risk (2021 Fall)
+    - STAT3908 Credibility Theory and Loss Distributions (2022 Fall)
+    - STAT4608 Market Risk Analysis (2023 Spring)
+    - STAT4904 Statistical Learning for Risk Modelling (2021 Spring)
 + **2017-2020**: 
-    -Real Analysis (2018 Fall)
-    -Probability theory (2019 Spring)
-    -Statistics (2019 Fall)
+    - Real Analysis (2018 Fall)
+    - Probability theory (2019 Spring)
+    - Statistics (2019 Fall)
 
 ## Miscellaneous
 I enjoy taking photographs including portraits, landscapes and streets. Check out my annually updated collections in [ShotbyLance](https://lanceh7.wixsite.com/shotbylance)!
