@@ -17,7 +17,7 @@ My current research primarily focuses on high-dimensional econometrics and rando
 3. Assessing the strength of many instruments with the first-stage F and Cragg-Donald statistics, with Chen Wang and Jianfeng Yao, 2023 - [[paper]](https://arxiv.org/pdf/2302.14423.pdf)
 4. A specification test for the strength of instrumental variables, with Chen Wang and Jianfeng Yao, 2023 - [[paper]](https://arxiv.org/pdf/2302.14396.pdf)
 5. Unified and robust Lagrange multiplier type tests for cross-sectional independence in large panel data models, with Zhaoyuan Li and Jianfeng Yao, 2022 - [[paper]](https://arxiv.org/pdf/2302.14387.pdf)
-6. Assessing Risk Spillovers with (Lasso) VAR for Expectile, with Hui-Ching Chuang, O-Chia Chuang and Zaichao Du, 2022 - [[paper]]()
+6. Assessing Risk Spillovers with (Lasso) VAR for Expectile, with Hui-Ching Chuang, O-Chia Chuang and Zaichao Du, 2022 - [[paper]](https://deliverypdf.ssrn.com/delivery.php?ID=271115095026087003013108010104106006017000060055059029121029115023089071096029114125100029055040112124009075031070117076124103119082082087053120019020127012078004088038034008121006083023031101114126001085091086075008066123127019006096094105087084029001&EXT=pdf&INDEX=TRUE)
 
 ## Work In Progress
 1. Testing endogeneity in high dimension, with Chen Wang and Jianfeng Yao
