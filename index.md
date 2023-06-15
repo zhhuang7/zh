@@ -2,9 +2,6 @@
 layout: homepage
 ---
 
-## Still developing...
-More to come
-
 ## About Me
 I am a third year Ph.D. student in Statistics at The University of Hong Kong, where I am privileged to be advised by [Prof. Jianfeng Yao](https://jianfengyao.wordpress.com/) and [Dr. Chen Wang](https://saasweb.hku.hk/staff/stacw/web/).
 
