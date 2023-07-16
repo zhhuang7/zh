@@ -6,7 +6,7 @@ layout: homepage
 I am a third year Ph.D. student in Statistics at The University of Hong Kong, where I am privileged to be advised by [Prof. Jianfeng Yao](https://jianfengyao.wordpress.com/) and [Dr. Chen Wang](https://saasweb.hku.hk/staff/stacw/web/).
 
 ## Research Interests
-My current research primarily focuses on high-dimensional econometrics and random matrix theory (RMT). I am currently working on instrumental variable models and large panel data models with tools from RMT. I am also interested in causal inference and its applications in bioinformatics.
+My current research primarily focuses on high-dimensional econometrics and random matrix theory (RMT). I am currently working on instrumental variable models and large panel data models with tools from RMT and nonparametric statistics. I am also interested in causal inference and its applications in bioinformatics.
 
 ## Working Papers
 1. Anderson-Rubin test with many instruments, with Chen Wang and Jianfeng Yao, 2023 - [[draft]](https://www.dropbox.com/s/q4tcas0hs3s4915/20230228_AR_test_with_many_instruments.pdf?dl=0)
