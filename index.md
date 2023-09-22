@@ -18,7 +18,7 @@ high-dimensional econometrics models with tools from random matrix theory and se
    - Winner of *2023 IAAE Travel Grant Award*.
 5. A specification test for the strength of instrumental variables, with Chen Wang and Jianfeng Yao, 2023 - [[paper]](https://arxiv.org/pdf/2302.14396.pdf)
    - Presented at *EcoStat2022*.
-6. Unified and robust Lagrange multiplier type tests for cross-sectional independence in large panel data models, with Zhaoyuan Li and Jianfeng Yao, 2022 - [[paper]](https://www.dropbox.com/scl/fi/jq5741l8mgsmfevjn5cc9/RLM_Sinica_main.pdf?rlkey=b0clir7zckpyjfv8m5omq7cej&dl=0)[[Supplement]](https://www.dropbox.com/scl/fi/13190ayz0gb04xw8qfs0r/RLM_Sinica_Supplement.pdf?rlkey=qtsn932p5j3zan79ldmjpxe5s&dl=0)
+6. Unified and robust Lagrange multiplier type tests for cross-sectional independence in large panel data models, with Zhaoyuan Li and Jianfeng Yao, 2022 - [[paper]](https://www.dropbox.com/scl/fi/jq5741l8mgsmfevjn5cc9/RLM_Sinica_main.pdf?rlkey=b0clir7zckpyjfv8m5omq7cej&dl=0)[[supplement]](https://www.dropbox.com/scl/fi/13190ayz0gb04xw8qfs0r/RLM_Sinica_Supplement.pdf?rlkey=qtsn932p5j3zan79ldmjpxe5s&dl=0)
    - Presented at *YEAP2022*.
 7. Assessing Risk Spillovers with (Lasso) VAR for Expectile, with Hui-Ching Chuang, O-Chia Chuang and Zaichao Du, 2022 - [[paper]](https://deliverypdf.ssrn.com/delivery.php?ID=271115095026087003013108010104106006017000060055059029121029115023089071096029114125100029055040112124009075031070117076124103119082082087053120019020127012078004088038034008121006083023031101114126001085091086075008066123127019006096094105087084029001&EXT=pdf&INDEX=TRUE)
 
