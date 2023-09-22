@@ -7,7 +7,7 @@ I am a fourth year statistics Ph.D. student at The University of Hong Kong, wher
 
 ## Research Interests
 My current research primarily focuses on high-dimensional econometrics and statistics theory. I work on developing inference methods and theory for 
-high-dimensional econometrics models with tools from random matrix theory and nonparametric statistics, particularly in instrumental variable and panel data contexts. I am also working on empirical analysis of social and genetic networks using techinuqes from econometrics and deep learning.
+high-dimensional econometrics models with tools from random matrix theory and semi/nonparametric statistics, particularly in instrumental variable and panel data contexts. I am also working on empirical analysis of social and genetic networks using techinuqes from econometrics and deep learning.
 
 ## Working Papers
 1. (Job Market Paper) Testing endogeneity with many endogenous variables, with Chen Wang and Jianfeng Yao - *Draft coming soon*
