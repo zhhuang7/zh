@@ -9,21 +9,26 @@ I am a fourth year statistics Ph.D. student at The University of Hong Kong, wher
 My current research primarily focuses on high-dimensional econometrics and statistics theory. I work on developing inference methods and theory for 
 high-dimensional econometrics models with tools from random matrix theory and semi/nonparametric statistics, particularly in instrumental variable and panel data contexts. I am also working on empirical analysis of social and genetic networks using techinuqes from econometrics and deep learning.
 
-## Working Papers
-1. (Job Market Paper) Testing endogeneity with many endogenous variables, with Chen Wang and Jianfeng Yao - *Draft coming soon*
-2. Anderson-Rubin test with many unbalanced instruments, with Chen Wang and Jianfeng Yao, 2023 - [[paper]](https://www.dropbox.com/scl/fi/tx3vcyyh55huwxit482h1/weakIVpaper3_20230922.pdf?rlkey=yxt7pv49b3m2uhin4dvavilwy&dl=0)
-3. A note on assessing the strength of many weak instruments with multiple endogenous variables, with Chen Wang and Jianfeng Yao, 2023 - [[paper]](https://www.dropbox.com/s/r49e5s82095vhgj/Adjusted_F_multiple_p.pdf?dl=0)
-4. Assessing the strength of many instruments with the first-stage F and Cragg-Donald statistics, with Chen Wang and Jianfeng Yao, 2023 - [[paper]](https://www.dropbox.com/scl/fi/7yrd6xyzed4jh2kw7upub/weakIVpaper2_20230825.pdf?rlkey=3algefffwmbbpzr8bkxa2di9p&dl=0)
+## Job Market Paper
+Testing endogeneity with many endogenous variables, with Chen Wang and Jianfeng Yao - *Draft coming soon*
+*Studying statistical and econometrics models with high-dimensional endogeneity is becoming a major concern in recent years. I investigate testing endogeneity in instrumental variable models with both moderately high-dimensional endogeneity and instruments. I do not assume sparsity on coefficients. Within this framework, I show that the celebrated Durbin-Wu-Hausman test generally has distorted size. I further propose a dimension-adaptive test and establish its asymptotic validity. I also analyze its performance in the presence of many invalid instruments. I conduct extensive numerical simulations to confirm its satisfactory performance in various settings.*
+
+## Working Papers 
+1. Anderson-Rubin test with many unbalanced instruments, with Chen Wang and Jianfeng Yao, 2023 - [[paper]](https://www.dropbox.com/scl/fi/tx3vcyyh55huwxit482h1/weakIVpaper3_20230922.pdf?rlkey=yxt7pv49b3m2uhin4dvavilwy&dl=0)
+2. Confidence intervals for the signal strength in moderately high dimensional multiple linear regression models, with Chen Wang, 2023 - [[paper]](https://www.dropbox.com/s/r49e5s82095vhgj/Adjusted_F_multiple_p.pdf?dl=0)
+3. Assessing the strength of many instruments with the first-stage F and Cragg-Donald statistics, with Chen Wang and Jianfeng Yao, 2023 - [[paper]](https://www.dropbox.com/scl/fi/7yrd6xyzed4jh2kw7upub/weakIVpaper2_20230825.pdf?rlkey=3algefffwmbbpzr8bkxa2di9p&dl=0)
    - Presented at *SWETA2023*, *IAAE2023* and *AMES2023*.
    - Winner of *2023 IAAE Travel Grant Award*.
-5. A specification test for the strength of instrumental variables, with Chen Wang and Jianfeng Yao, 2023 - [[paper]](https://arxiv.org/pdf/2302.14396.pdf)
+4. Test for Bekker’s many instruments asymptotics, with Chen Wang and Jianfeng Yao, 2023 - [[paper]](https://arxiv.org/pdf/2302.14396.pdf)
    - Presented at *EcoStat2022*.
-6. Unified and robust Lagrange multiplier type tests for cross-sectional independence in large panel data models, with Zhaoyuan Li and Jianfeng Yao, 2022 - [[paper]](https://www.dropbox.com/scl/fi/jq5741l8mgsmfevjn5cc9/RLM_Sinica_main.pdf?rlkey=b0clir7zckpyjfv8m5omq7cej&dl=0)[[supplement]](https://www.dropbox.com/scl/fi/13190ayz0gb04xw8qfs0r/RLM_Sinica_Supplement.pdf?rlkey=qtsn932p5j3zan79ldmjpxe5s&dl=0)
+5. Unified and robust Lagrange multiplier type tests for cross-sectional independence in large panel data models, with Zhaoyuan Li and Jianfeng Yao, 2022 - [[paper]](https://www.dropbox.com/scl/fi/jq5741l8mgsmfevjn5cc9/RLM_Sinica_main.pdf?rlkey=b0clir7zckpyjfv8m5omq7cej&dl=0)[[supplement]](https://www.dropbox.com/scl/fi/13190ayz0gb04xw8qfs0r/RLM_Sinica_Supplement.pdf?rlkey=qtsn932p5j3zan79ldmjpxe5s&dl=0)
    - Presented at *YEAP2022*.
-7. Assessing Risk Spillovers with (Lasso) VAR for Expectile, with Hui-Ching Chuang, O-Chia Chuang and Zaichao Du, 2022 - [[paper]](https://deliverypdf.ssrn.com/delivery.php?ID=271115095026087003013108010104106006017000060055059029121029115023089071096029114125100029055040112124009075031070117076124103119082082087053120019020127012078004088038034008121006083023031101114126001085091086075008066123127019006096094105087084029001&EXT=pdf&INDEX=TRUE)
+6. Assessing Risk Spillovers with (Lasso) VAR for Expectile, with Hui-Ching Chuang, O-Chia Chuang and Zaichao Du, 2022 - [[paper]](https://deliverypdf.ssrn.com/delivery.php?ID=271115095026087003013108010104106006017000060055059029121029115023089071096029114125100029055040112124009075031070117076124103119082082087053120019020127012078004088038034008121006083023031101114126001085091086075008066123127019006096094105087084029001&EXT=pdf&INDEX=TRUE)
 
 ## Work In Progress
-1. High dimensional mediation analysis in CRISPR data, with Dailin Gan
+1. Causal genetic networks analysis in CRISPR data with high dimensional mediators, with Dailin Gan
+2. DeepIV estimation with many endogenous variables, with Dailin Gan
+3. Sieve two-step GMM estimation with many endogenous variables and weak moment conditions
 
 ## Talks
 1. The 2023 Asian Meeting of the Econometric Society in East and Southeast Asia (*[AMES2023](https://www.ames2023ntu.org/)*), Singapore
