@@ -11,7 +11,8 @@ high-dimensional econometrics models with tools from random matrix theory and se
 
 ## Job Market Paper
 Testing endogeneity with many endogenous variables, with Chen Wang and Jianfeng Yao - *Draft coming soon*
-*Studying statistical and econometrics models with high-dimensional endogeneity is becoming a major concern in recent years. I investigate testing endogeneity in instrumental variable models with both moderately high-dimensional endogeneity and instruments. I do not assume sparsity on coefficients. Within this framework, I show that the celebrated Durbin-Wu-Hausman test generally has distorted size. I further propose a dimension-adaptive test and establish its asymptotic validity. I also analyze its performance in the presence of many invalid instruments. I conduct extensive numerical simulations to confirm its satisfactory performance in various settings.*
+
+_Studying statistical and econometrics models with high-dimensional endogeneity is becoming a major concern in recent years. I investigate testing endogeneity in instrumental variable models with both moderately high-dimensional endogeneity and instruments. I do not assume sparsity on coefficients. Within this framework, I show that the celebrated Durbin-Wu-Hausman test generally has distorted size. I further propose a dimension-adaptive test and establish its asymptotic validity. I also analyze its performance in the presence of many invalid instruments. I conduct extensive numerical simulations to confirm its satisfactory performance in various settings._
 
 ## Working Papers 
 1. Anderson-Rubin test with many unbalanced instruments, with Chen Wang and Jianfeng Yao, 2023 - [[paper]](https://www.dropbox.com/scl/fi/tx3vcyyh55huwxit482h1/weakIVpaper3_20230922.pdf?rlkey=yxt7pv49b3m2uhin4dvavilwy&dl=0)
