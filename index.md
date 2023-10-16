@@ -10,7 +10,7 @@ My current research primarily focuses on high-dimensional econometrics and stati
 high-dimensional econometrics models with tools from random matrix theory and semi/nonparametric statistics, particularly in instrumental variable and panel data contexts. I am also working on empirical analysis of social and genetic networks using techinuqes from econometrics and deep learning.
 
 ## Job Market Paper
-Testing endogeneity with many endogenous variables, with Chen Wang and Jianfeng Yao - *Draft coming soon*
+Testing endogeneity with many endogenous variables - **Draft coming soon**
 
 _Studying statistical and econometrics models with high-dimensional endogeneity is becoming a major concern in recent years. I investigate testing endogeneity in instrumental variable models with both moderately high-dimensional endogeneity and instruments. I do not assume sparsity on coefficients. Within this framework, I show that the celebrated Durbin-Wu-Hausman test generally has distorted size. I further propose a dimension-adaptive test and establish its asymptotic validity. I also analyze its performance in the presence of many invalid instruments. I conduct extensive numerical simulations to confirm its satisfactory performance in various settings._
 
