@@ -19,7 +19,7 @@ high-dimensional econometrics models with tools from random matrix theory and se
 4. Assessing the strength of many instruments with the first-stage F and Cragg-Donald statistics, with Chen Wang and Jianfeng Yao, 2023 - [[paper]](https://www.dropbox.com/scl/fi/7yrd6xyzed4jh2kw7upub/weakIVpaper2_20230825.pdf?rlkey=3algefffwmbbpzr8bkxa2di9p&dl=0)
    - Presented at *SWETA2023*, *IAAE2023* and *AMES2023*.
    - Winner of *2023 IAAE Travel Grant Award*.
-5. Test for Bekker’s many instruments asymptotics, with Chen Wang and Jianfeng Yao, 2023 - [[paper]](https://arxiv.org/pdf/2302.14396.pdf)
+5. On Bekker’s many instruments asymptotics, with Chen Wang and Jianfeng Yao, 2023 - [[paper]](https://arxiv.org/pdf/2302.14396.pdf)
    - Presented at *EcoStat2022*.
 6. Unified and robust Lagrange multiplier type tests for cross-sectional independence in large panel data models, with Zhaoyuan Li and Jianfeng Yao, 2022 - [[paper]](https://www.dropbox.com/scl/fi/jq5741l8mgsmfevjn5cc9/RLM_Sinica_main.pdf?rlkey=b0clir7zckpyjfv8m5omq7cej&dl=0)[[supplement]](https://www.dropbox.com/scl/fi/13190ayz0gb04xw8qfs0r/RLM_Sinica_Supplement.pdf?rlkey=qtsn932p5j3zan79ldmjpxe5s&dl=0)
    - Presented at *YEAP2022*.
