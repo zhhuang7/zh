@@ -9,12 +9,13 @@ I am a fourth year statistics Ph.D. student at The University of Hong Kong, wher
 My current research primarily focuses on high-dimensional econometrics and statistics theory. I work on developing inference methods and theory for 
 high-dimensional econometrics models with tools from random matrix theory and semi/nonparametric statistics, particularly in instrumental variable and panel data contexts. I am also working on empirical analysis of social and genetic networks using techinuqes from econometrics and deep learning.
 
-**I am looking for a postdoctoral position starting from 2024 Summer.**
+**I am looking for a postdoctoral position starting from 2024 Fall.**
 
 ## Working Papers 
 1. Testing endogeneity with many endogenous variables - **Draft coming soon**
+   - Presented at *HKEA2023*
 2. Anderson-Rubin test with many unbalanced instruments, with Chen Wang and Jianfeng Yao, 2023 - [[paper]](https://www.dropbox.com/scl/fi/tx3vcyyh55huwxit482h1/weakIVpaper3_20230922.pdf?rlkey=yxt7pv49b3m2uhin4dvavilwy&dl=0)
-3. Confidence intervals for the signal strength in moderately high dimensional multiple linear regression models, with Chen Wang, 2023 - [[paper]](https://www.dropbox.com/s/r49e5s82095vhgj/Adjusted_F_multiple_p.pdf?dl=0)
+3. Confidence intervals for the signal strength in moderately high dimensional multivariate linear regression models, with Chen Wang, 2023 
 4. Assessing the strength of many instruments with the first-stage F and Cragg-Donald statistics, with Chen Wang and Jianfeng Yao, 2023 - [[paper]](https://www.dropbox.com/scl/fi/7yrd6xyzed4jh2kw7upub/weakIVpaper2_20230825.pdf?rlkey=3algefffwmbbpzr8bkxa2di9p&dl=0)
    - Presented at *SWETA2023*, *IAAE2023* and *AMES2023*.
    - Winner of *2023 IAAE Travel Grant Award*.
@@ -30,11 +31,12 @@ high-dimensional econometrics models with tools from random matrix theory and se
 3. Sieve two-step GMM estimation with many endogenous variables and weak moment conditions
 
 ## Talks
-1. The 2023 Asian Meeting of the Econometric Society in East and Southeast Asia (*[AMES2023](https://www.ames2023ntu.org/)*), Singapore
-2. The 2023 International Association for Applied Econometrics Annual Conference (*[IAAE2023](https://www.bi.edu/about-bi/events/2023/june/iaae2023/)*), Oslo, Norway
-3. Workshop on Econometric Theory and Applications (*[SWETA2023](https://sites.google.com/view/sweta2023/home)*), Siena, Italy
-4. The 5th International Conference on Econometrics and Statistics (*[EcoStat2022](http://www.cmstatistics.org/EcoSta2022/)*), Kyoto, Japan
-5. The 7th Conference of Young Econometricans in Asia-Pacific (*YEAP2022*), Shanghai, China
+1. The 11th Hong Kong Economic Association Biennial Conference (*[HKEA2023](http://hkea.org.hk/index.php/11th-conference)*), Hong Kong
+2. The 2023 Asian Meeting of the Econometric Society in East and Southeast Asia (*[AMES2023](https://www.ames2023ntu.org/)*), Singapore
+3. The 2023 International Association for Applied Econometrics Annual Conference (*[IAAE2023](https://www.bi.edu/about-bi/events/2023/june/iaae2023/)*), Oslo, Norway
+4. Workshop on Econometric Theory and Applications (*[SWETA2023](https://sites.google.com/view/sweta2023/home)*), Siena, Italy
+5. The 5th International Conference on Econometrics and Statistics (*[EcoStat2022](http://www.cmstatistics.org/EcoSta2022/)*), Kyoto, Japan
+6. The 7th Conference of Young Econometricans in Asia-Pacific (*YEAP2022*), Shanghai, China
 
 ## Teaching Assistants
 * **2020-2024**: 
