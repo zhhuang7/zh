@@ -12,16 +12,16 @@ high-dimensional econometrics models with tools from random matrix theory and se
 **I am looking for a postdoctoral position starting from 2024 Fall.**
 
 ## Working Papers 
-1. Testing endogeneity with many endogenous variables - **Draft coming soon**
+1. Testing endogeneity with many endogenous variables - [[paper]](https://www.dropbox.com/scl/fi/7hdg707g1rybv4jfa61kt/Testing_endogeneity_in_high_dimension.pdf?rlkey=2xh1rrksplnue4gw498qil3wn&dl=0)
    - Presented at *HKEA2023*
 2. Anderson-Rubin test with many unbalanced instruments, with Chen Wang and Jianfeng Yao, 2023 - [[paper]](https://www.dropbox.com/scl/fi/tx3vcyyh55huwxit482h1/weakIVpaper3_20230922.pdf?rlkey=yxt7pv49b3m2uhin4dvavilwy&dl=0)
 3. Confidence intervals for the signal strength in moderately high dimensional multivariate linear regression models, with Chen Wang, 2023 
 4. Assessing the strength of many instruments with the first-stage F and Cragg-Donald statistics, with Chen Wang and Jianfeng Yao, 2023 - [[paper]](https://www.dropbox.com/scl/fi/7yrd6xyzed4jh2kw7upub/weakIVpaper2_20230825.pdf?rlkey=3algefffwmbbpzr8bkxa2di9p&dl=0)
    - Presented at *SWETA2023*, *IAAE2023* and *AMES2023*.
    - Winner of *2023 IAAE Travel Grant Award*.
-5. On Bekker’s many instruments asymptotics, with Chen Wang and Jianfeng Yao, 2023 - [[paper]](https://arxiv.org/pdf/2302.14396.pdf)
+5. On Bekker’s many instruments asymptotics, with Chen Wang and Jianfeng Yao, 2023 - [[paper]](https://www.dropbox.com/scl/fi/yt1ihiox5qpjn5wpdgps9/weakIV_paper1_20231031.pdf?rlkey=zk4dqefqt420g78xnwz0fko9m&dl=0)
    - Presented at *EcoStat2022*.
-6. Unified and robust Lagrange multiplier type tests for cross-sectional independence in large panel data models, with Zhaoyuan Li and Jianfeng Yao, 2022 - [[paper]](https://www.dropbox.com/scl/fi/jq5741l8mgsmfevjn5cc9/RLM_Sinica_main.pdf?rlkey=b0clir7zckpyjfv8m5omq7cej&dl=0)[[supplement]](https://www.dropbox.com/scl/fi/13190ayz0gb04xw8qfs0r/RLM_Sinica_Supplement.pdf?rlkey=qtsn932p5j3zan79ldmjpxe5s&dl=0)
+6. Unified and robust Lagrange multiplier type tests for cross-sectional independence in large panel data models, with Zhaoyuan Li and Jianfeng Yao, 2022 - [[paper]](https://www.dropbox.com/scl/fi/nxnvd7aj4wq09b805dbzn/RLM_EJS.pdf?rlkey=pquvay6uye07u1rxgfovj5aqe&dl=0)
    - Presented at *YEAP2022*.
 7. Assessing Risk Spillovers with (Lasso) VAR for Expectile, with Hui-Ching Chuang, O-Chia Chuang and Zaichao Du, 2022 - [[paper]](https://deliverypdf.ssrn.com/delivery.php?ID=271115095026087003013108010104106006017000060055059029121029115023089071096029114125100029055040112124009075031070117076124103119082082087053120019020127012078004088038034008121006083023031101114126001085091086075008066123127019006096094105087084029001&EXT=pdf&INDEX=TRUE)
 
