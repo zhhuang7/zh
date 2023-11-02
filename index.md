@@ -6,8 +6,8 @@ layout: homepage
 I am a fourth year statistics Ph.D. student at The University of Hong Kong, where I am privileged to be advised by [Prof. Jianfeng Yao](https://jianfengyao.wordpress.com/) and [Dr. Chen Wang](https://saasweb.hku.hk/staff/stacw/web/).
 
 ## Research Interests
-My current research primarily focuses on  econometrics and statistics theory. I work on developing inference methods and theory for 
-high-dimensional econometrics models with tools from random matrix theory and semi/nonparametric statistics, particularly in instrumental variable and panel data contexts. I am also working on empirical analysis of social and genetic networks using techinuqes from econometrics and deep learning.
+My current research primarily focuses on econometrics and statistics theory. I work on inference methods and theory for 
+high-dimensional econometrics models with tools from random matrix theory and semi/nonparametric statistics, particularly in instrumental variable contexts. I am currently interested in developing and applying statistical, econometric and data science methods into novel application domains, such as policy analysis.  
 
 **I am looking for a postdoctoral position starting from 2024 Fall.**
 
@@ -19,7 +19,7 @@ high-dimensional econometrics models with tools from random matrix theory and se
 4. Assessing the strength of many instruments with the first-stage F and Cragg-Donald statistics, with Chen Wang and Jianfeng Yao, 2023 - [[paper]](https://www.dropbox.com/scl/fi/7yrd6xyzed4jh2kw7upub/weakIVpaper2_20230825.pdf?rlkey=3algefffwmbbpzr8bkxa2di9p&dl=0)
    - Presented at *SWETA2023*, *IAAE2023* and *AMES2023*.
    - Winner of *2023 IAAE Travel Grant Award*.
-5. On Bekker’s many instruments asymptotics, with Chen Wang and Jianfeng Yao, 2023 - [[paper]](https://www.dropbox.com/scl/fi/yt1ihiox5qpjn5wpdgps9/weakIV_paper1_20231031.pdf?rlkey=zk4dqefqt420g78xnwz0fko9m&dl=0)
+5. On Bekker’s Many Instruments Asymptotics, with Chen Wang and Jianfeng Yao, 2023 - [[paper]](https://www.dropbox.com/scl/fi/yt1ihiox5qpjn5wpdgps9/weakIV_paper1_20231031.pdf?rlkey=zk4dqefqt420g78xnwz0fko9m&dl=0)
    - Presented at *EcoStat2022*.
 6. Unified and robust Lagrange multiplier type tests for cross-sectional independence in large panel data models, with Zhaoyuan Li and Jianfeng Yao, 2022 - [[paper]](https://www.dropbox.com/scl/fi/nxnvd7aj4wq09b805dbzn/RLM_EJS.pdf?rlkey=pquvay6uye07u1rxgfovj5aqe&dl=0)
    - Presented at *YEAP2022*.
@@ -27,7 +27,7 @@ high-dimensional econometrics models with tools from random matrix theory and se
 
 ## Work In Progress
 1. Causal genetic networks analysis in CRISPR data with high dimensional mediators, with Dailin Gan
-2. DeepIV estimation with many endogenous variables, with Dailin Gan
+2. DeepGMM estimation with many endogenous variables, with Dailin Gan
 3. Sieve two-step GMM estimation with many endogenous variables and weak moment conditions
 
 ## Talks
