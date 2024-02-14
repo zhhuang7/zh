@@ -46,10 +46,11 @@ I study econometric and statistical theory and applications.
 ## Teaching Assistants
 * **2020-2024**: 
     - STAT3606 Business Logistics (2020 Fall)
-    - STAT3609 The Statistics of Investment Risk (2021 Fall)
+    - STAT3609 The Statistics of Investment Risk (2021 Fall, 2023 Fall)
     - STAT3908 Credibility Theory and Loss Distributions (2022 Fall)
     - STAT4608 Market Risk Analysis (2023 Spring)
     - STAT4904 Statistical Learning for Risk Modelling (2021 Spring)
+    - STAT7102 Advanced Statistical Modelling (2024 Spring)
 + **2017-2020**: 
     - Real Analysis (2018 Fall)
     - Probability theory (2019 Spring)
