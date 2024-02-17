@@ -16,7 +16,7 @@ I study econometric and statistical theory and applications.
 
 ## Working Papers 
 1. Testing Endogeneity with Many Endogenous variables - [[paper]](https://www.dropbox.com/scl/fi/zw76ksmmeznedv4ho4v0j/TestingEndogeneityInHighDim.pdf?rlkey=mn09uh4ori96naajkp36ztu3u&dl=0)
-   - Presented at *HKEA2023*
+   - Presented at *HKEA2023*, *SETA2024*
 2. Anderson-Rubin test with many unbalanced instruments, with Chen Wang and Jianfeng Yao, 2023 - [[paper]](https://www.dropbox.com/scl/fi/xsp0vn8v9yrwid4auiy6e/AR_test_with_many_unbalanced_instruments.pdf?rlkey=cvofo8kf9w9h5y6b9g88gp19u&dl=0)
 3. Confidence intervals for the signal strength in moderately high dimensional multivariate linear regression models, with Chen Wang, 2023 
 4. Assessing the strength of many instruments with the first-stage F and Cragg-Donald statistics, with Chen Wang and Jianfeng Yao, 2023 - [[paper]](https://www.dropbox.com/scl/fi/7yrd6xyzed4jh2kw7upub/weakIVpaper2_20230825.pdf?rlkey=3algefffwmbbpzr8bkxa2di9p&dl=0)
@@ -36,12 +36,13 @@ I study econometric and statistical theory and applications.
 
 
 ## Talks
-1. The 11th Hong Kong Economic Association Biennial Conference (*[HKEA2023](http://hkea.org.hk/index.php/11th-conference)*), Hong Kong
-2. The 2023 Asian Meeting of the Econometric Society in East and Southeast Asia (*[AMES2023](https://www.ames2023ntu.org/)*), Singapore
-3. The 2023 International Association for Applied Econometrics Annual Conference (*[IAAE2023](https://www.bi.edu/about-bi/events/2023/june/iaae2023/)*), Oslo, Norway
-4. Workshop on Econometric Theory and Applications (*[SWETA2023](https://sites.google.com/view/sweta2023/home)*), Siena, Italy
-5. The 5th International Conference on Econometrics and Statistics (*[EcoStat2022](http://www.cmstatistics.org/EcoSta2022/)*), Kyoto, Japan
-6. The 7th Conference of Young Econometricans in Asia-Pacific (*YEAP2022*), Shanghai, China
+1. The 18th International Symposium on Econometric Theory and Applications (*[SETA2024](https://www.econ.sinica.edu.tw/seta2024)*), Taiwan
+2. The 11th Hong Kong Economic Association Biennial Conference (*[HKEA2023](http://hkea.org.hk/index.php/11th-conference)*), Hong Kong
+3. The 2023 Asian Meeting of the Econometric Society in East and Southeast Asia (*[AMES2023](https://www.ames2023ntu.org/)*), Singapore
+4. The 2023 International Association for Applied Econometrics Annual Conference (*[IAAE2023](https://www.bi.edu/about-bi/events/2023/june/iaae2023/)*), Oslo, Norway
+5. Workshop on Econometric Theory and Applications (*[SWETA2023](https://sites.google.com/view/sweta2023/home)*), Siena, Italy
+6. The 5th International Conference on Econometrics and Statistics (*[EcoStat2022](http://www.cmstatistics.org/EcoSta2022/)*), Kyoto, Japan
+7. The 7th Conference of Young Econometricans in Asia-Pacific (*YEAP2022*), Shanghai, China
 
 ## Teaching Assistants
 * **2020-2024**: 
