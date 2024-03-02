@@ -12,7 +12,7 @@ I study econometric and statistical theory and applications.
   My current research primarily focuses inference methods and theory for high-dimensional econometric models with tools from random matrix theory, semi/nonparametric statistics and deep learning, particularly in panel data and instrumental variable contexts. 
 
 + **Applications**:
-  Most of my theoretic works are empirically oriented, aiming to provide robust methods that may be applied safely in practice. I am passionate about topics on understanding causal effects of policies.
+  Most of my theoretic works are empirically oriented, aiming to provide robust methods that may be applied safely in practice. I am intersted in  understanding causal effects of policies/programmes using quasi-experimental methods and causal machanisms using mediation analysis.
 
 ## Working Papers 
 1. Testing Endogeneity with Many Endogenous variables - [[paper]](https://www.dropbox.com/scl/fi/zw76ksmmeznedv4ho4v0j/TestingEndogeneityInHighDim.pdf?rlkey=mn09uh4ori96naajkp36ztu3u&dl=0)
