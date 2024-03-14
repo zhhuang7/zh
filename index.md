@@ -30,9 +30,8 @@ I study econometric and statistical theory and applications.
 
 ## Work In Progress
 1. Causal genetic networks analysis in CRISPR data with high dimensional mediators, with Dailin Gan
-2. Estimation and Inference with Many Mediators, with Chen Wang and Jianfeng Yao
-3. DeepGMM estimation with many endogenous variables, with Dailin Gan
-4. Sieve two-step GMM estimation with many endogenous variables and weak moment conditions
+2. Endogenous Mediation Analysis With Many Weak Instruments, with Chen Wang and Jianfeng Yao
+3. DeepMedIV: Semiparametric Endogenous Mediation Analysis With Deep Learning, with Dailin Gan
 
 
 ## Talks
