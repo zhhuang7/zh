@@ -6,13 +6,7 @@ layout: homepage
 I am a fourth year statistics Ph.D. student at The University of Hong Kong, where I am privileged to be advised by [Prof. Jianfeng Yao](https://jianfengyao.wordpress.com/) and [Dr. Chen Wang](https://saasweb.hku.hk/staff/stacw/web/).
 
 ## Research Interests
-I study econometric and statistical theory and applications. 
-
-* **Theory**:
-  My current research primarily focuses inference methods and theory for high-dimensional econometric models with tools from random matrix theory, semi/nonparametric statistics and deep learning, particularly in panel data and instrumental variable contexts. 
-
-+ **Applications**:
-  Most of my theoretic works are empirically oriented, aiming to provide robust methods that may be applied safely in practice. I am intersted in  understanding causal effects using quasi-experimental methods and causal machanisms using mediation analysis.
+Statistical theory and applications. 
 
 ## Working Papers 
 1. Testing Endogeneity with Many Endogenous variables
