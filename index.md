@@ -5,9 +5,6 @@ layout: homepage
 ## About Me
 I am a fourth year statistics Ph.D. student at The University of Hong Kong, where I am privileged to be advised by [Prof. Jianfeng Yao](https://jianfengyao.wordpress.com/) and [Dr. Chen Wang](https://saasweb.hku.hk/staff/stacw/web/).
 
-## Research Interests
-Statistical theory and applications. 
-
 ## Working Papers 
 1. Testing Endogeneity with Many Endogenous variables
    - Presented at *HKEA2023*, *SETA2024*
